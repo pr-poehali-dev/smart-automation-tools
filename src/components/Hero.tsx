@@ -146,7 +146,7 @@ export function Hero() {
           >
             {"17 лет с душой"}
             <br />
-            <span className="text-orange-200">{"и заботой о Вашем комфорте"}</span>
+            <span className="text-orange-200">{"строим дома, где ваши желания оживают"}</span>
           </h1>
         </div>
       </div>
