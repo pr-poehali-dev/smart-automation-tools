@@ -6,26 +6,26 @@
 
 @layer base {
   :root {
-    /* Hously architecture color palette - warm neutrals with charcoal accents */
-    --background: 40 20% 97%;
-    --foreground: 30 10% 12%;
-    --card: 40 15% 98%;
-    --card-foreground: 30 10% 12%;
-    --popover: 40 15% 98%;
-    --popover-foreground: 30 10% 12%;
-    --primary: 30 10% 15%;
-    --primary-foreground: 40 20% 97%;
-    --secondary: 35 15% 92%;
-    --secondary-foreground: 30 10% 18%;
-    --muted: 35 15% 90%;
-    --muted-foreground: 30 10% 40%;
-    --accent: 25 20% 60%;
-    --accent-foreground: 30 10% 12%;
+    /* Warm wood & nature palette */
+    --background: 36 30% 96%;
+    --foreground: 25 25% 12%;
+    --card: 36 25% 98%;
+    --card-foreground: 25 25% 12%;
+    --popover: 36 25% 98%;
+    --popover-foreground: 25 25% 12%;
+    --primary: 25 30% 18%;
+    --primary-foreground: 36 30% 96%;
+    --secondary: 34 25% 90%;
+    --secondary-foreground: 25 25% 18%;
+    --muted: 34 20% 88%;
+    --muted-foreground: 25 15% 42%;
+    --accent: 28 55% 48%;
+    --accent-foreground: 36 30% 96%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
-    --border: 35 15% 88%;
-    --input: 35 15% 88%;
-    --ring: 30 15% 50%;
+    --border: 34 20% 85%;
+    --input: 34 20% 85%;
+    --ring: 28 40% 50%;
     --radius: 0.25rem;
 
     --sidebar-background: 0 0% 98%;
