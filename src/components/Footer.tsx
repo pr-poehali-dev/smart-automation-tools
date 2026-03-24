@@ -50,6 +50,11 @@ export function Footer() {
                 </a>
               </li>
               <li>
+                <a href="mailto:SKLobodin@yandex.ru" className="hover:text-foreground transition-colors">
+                  SKLobodin@yandex.ru
+                </a>
+              </li>
+              <li>
                 <a href="https://vk.com/sklobodin" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
                   ВКонтакте
                 </a>
