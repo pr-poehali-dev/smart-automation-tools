@@ -20,17 +20,17 @@ export function CallToAction() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="mailto:hello@prostranstvo.ru"
+              href="mailto:SKLobodin@yandex.ru"
               className="inline-flex items-center justify-center gap-3 bg-primary-foreground text-foreground px-8 py-4 text-sm tracking-wide hover:bg-primary-foreground/90 transition-colors duration-300 group"
             >
-              Начать диалог
+              Написать на почту
               <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
             </a>
             <a
-              href="tel:+74951234567"
+              href="tel:+79190524050"
               className="inline-flex items-center justify-center gap-2 border border-primary-foreground/30 px-8 py-4 text-sm tracking-wide hover:bg-primary-foreground/10 transition-colors duration-300"
             >
-              Назначить звонок
+              Позвонить нам
             </a>
           </div>
         </div>
