@@ -143,9 +143,9 @@ export function Hero() {
             ref={titleRef}
             className="text-7xl font-medium text-balance text-center text-white mb-0 tracking-tight leading-[0.9] lg:text-8xl"
           >
-            {"Создаем пространства"}
+            {"17 лет с душой"}
             <br />
-            <span className="text-orange-200">{"для жизни"}</span>
+            <span className="text-orange-200">{"и заботой о Вашем комфорте"}</span>
           </h1>
         </div>
       </div>
