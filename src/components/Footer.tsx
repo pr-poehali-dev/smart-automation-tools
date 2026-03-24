@@ -45,24 +45,17 @@ export function Footer() {
             <h4 className="text-sm font-medium mb-4">Связь</h4>
             <ul className="space-y-3 text-sm text-muted-foreground">
               <li>
-                <a href="mailto:hello@prostranstvo.ru" className="hover:text-foreground transition-colors">
-                  hello@prostranstvo.ru
+                <a href="tel:+79190524050" className="hover:text-foreground transition-colors">
+                  +7 (919) 052-40-50
                 </a>
               </li>
               <li>
-                <a href="tel:+74951234567" className="hover:text-foreground transition-colors">
-                  +7 (495) 123-45-67
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-foreground transition-colors">
-                  Телеграм
-                </a>
-              </li>
-              <li>
-                <a href="#" className="hover:text-foreground transition-colors">
+                <a href="https://vk.com/sklobodin" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
                   ВКонтакте
                 </a>
+              </li>
+              <li className="text-muted-foreground leading-relaxed">
+                Тверь, дер. Поддубье,<br />ул. Дачная, д. 23<br />Выставочная площадка
               </li>
             </ul>
           </div>
